@@ -10,14 +10,13 @@
 </p>
 
 <p align="center">
-  <strong><a href="https://t.me/filin_cprt">Telegram</a></strong> |
   <strong><a href="https://vk.com/filin_cprt">VK</a></strong> |
+  <strong><a href="https://t.me/filin_cprt">Telegram</a></strong> |
   <strong><a href="https://discordapp.com/users/631824453466062859/">Discord</a></strong> |
-  <strong><a href="https://linktr.ee/filin_cprt">Все ссылки</a></strong> |
-
+  <strong><a href="https://linktr.ee/filin_cprt">Others social</a></strong> |
 </p>
 
-<p align="center">❤ I'm currently working on Software, Anime / Manga, Game Dev, and Content Creation.</p>
+<p align="center">❤ I'm currently studying Information Systems and Programming, I like music and streaming.</p>
 
 <!--
 **edisonlee55/edisonlee55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

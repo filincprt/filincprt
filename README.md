@@ -12,7 +12,7 @@
 <p align="center">
   <strong><a href="https://vk.com/filin_cprt">VK</a></strong> |
   <strong><a href="https://t.me/filin_cprt">Telegram</a></strong> |
-  <strong><a href="https://discordapp.com/users/631824453466062859/">Discord</a></strong> |
+  <strong><a href="https://discordapp.com/users/1078294734361071657/">Discord</a></strong> |
   <strong><a href="https://linktr.ee/filin_cprt">Others social</a></strong> 
 </p>
 

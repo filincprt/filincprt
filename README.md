@@ -2,7 +2,7 @@
   <a href="https://vk.com/filin_cprt"><img src="giffany-glitch.gif" alt="edisonlee55 Banner"></a>
 </p>
 
-<h1 align="center">Hi, I'm <a href="https://vk.com/filin_cprt">filin_cprt</a>!</h1>
+<h1 align="center">Hi, I'm <a href="https://linktr.ee/filin_cprt">filin_cprt</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
 <p align="center">

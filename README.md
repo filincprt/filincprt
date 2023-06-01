@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://vk.com/filin_cprt"><img src="rainbow-line.gif" alt="edisonlee55 Banner"></a>
+  <a href="https://vk.com/filin_cprt"><img src="gravity-falls.gif" alt="edisonlee55 Banner"></a>
 </p>
 
 <h1 align="center">Hi, I'm <a href="https://vk.com/filin_cprt">filin_cprt</a>!</h1>

@@ -6,19 +6,9 @@
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=filincprt&theme=solarized_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=filincprt&theme=solarized_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=filincprt&theme=solarized_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=filincprt&theme=solarized_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=filincprt&theme=solarized_dark)
-
 
 <p align="center">
-  <a href="https://github.com/filincprt"><img src="https://github-readme-stats.vercel.app/api?username=filincprt&show_icons=true&theme=radical" alt="filincprt github stats"></a>
+  <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=filincprt&theme=solarized_dark" alt="filincprt github stats"></a>
 </p>
 
 <p align="center">

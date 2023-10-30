@@ -7,9 +7,7 @@
 
 
 
-<p align="center">
-  https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=filincprt&theme=solarized_dark
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=filincprt)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
   <strong><a href="https://vk.com/filin_cprt">VK</a></strong> |

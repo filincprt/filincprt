@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=filincprt&theme=solarized_dark" alt="filincprt github stats"></a>
+  https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=filincprt&theme=solarized_dark
 </p>
 
 <p align="center">

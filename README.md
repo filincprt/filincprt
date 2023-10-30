@@ -6,6 +6,7 @@
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
 <p align="center">
+  [![trophy](https://github-profile-trophy.vercel.app/?filincprt=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
   <a href="https://github.com/filincprt"><img src="https://github-readme-stats.vercel.app/api?username=filincprt&show_icons=true&theme=radical" alt="filincprt github stats"></a>
 </p>
 

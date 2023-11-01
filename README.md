@@ -6,8 +6,8 @@
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 <p align="center">
   <a href="https://t.me/filin_cprt"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="https://vk.com/filin_cprt"><ing src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="вконтакте"></a>
-  <a href="https://vk.com/filincprtofficial"><ing src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website"></a>
+  <a href="https://vk.com/filin_cprt"><img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="вконтакте"></a>
+  <a href="https://vk.com/filincprtofficial"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website"></a>
 </p>
 
 

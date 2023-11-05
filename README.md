@@ -2,7 +2,7 @@
   <a href="https://vk.com/filin_cprt"><img src="giffany-glitch.gif" alt="edisonlee55 Banner"></a>
 </p>
 
-<h1 align="center">Hi, I'm <a href="https://linktr.ee/filin_cprt">filin_cprt</a>!</h1>
+<h1 align="center">Hi, I'm <a href="https://linktr.ee/filin_cprt">filin_cprt!</a></h1>
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 <p align="center">
   <a href="https://t.me/filin_cprt"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>

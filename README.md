@@ -19,7 +19,9 @@
 
 ![Metrics](https://metrics.lecoq.io/filincprt?template=classic&languages=1&achievements=1¬able=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0¬able.from=organization¬able.repositories=false¬able.indepth=false¬able.types=commit&config.timezone=America%2FNew%20York)
 
+<p align="center">
 ![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=31cx4caihzoei25mr7e27mw5sp5m&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)
+</p>
 
 <p align="center">
   <strong><a href="https://vk.com/filin_cprt">VK</a></strong> |

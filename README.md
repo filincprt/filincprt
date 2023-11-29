@@ -16,7 +16,9 @@
   <a href="https://www.google.ru/search?ie=UTF-8&q=filin_cprt#ip=1"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg" alt="filin_cprt"></a>
 </p>
 
-### :fire: My Stats :
+
+### <p align="center">:fire: My Stats :</p>
+
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=filincprt&theme=tokyonight&locale=ru&mode=weekly&fire=EB2100">
 </p>

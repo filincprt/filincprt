@@ -23,10 +23,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=filincprt&theme=tokyonight&locale=ru&mode=weekly&fire=EB2100">
 </p>
 
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31cx4caihzoei25mr7e27mw5sp5m&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify">
-</p>
-
 
 <p align="center">
   <strong><a href="https://vk.com/filin_cprt">VK</a></strong> |

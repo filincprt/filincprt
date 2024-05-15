@@ -31,5 +31,5 @@
   <strong><a href="https://linktr.ee/filin_cprt">Others social</a></strong> 
 </p>
 
-<p align="center">❤ Currently I like music and streaming..</p>
+<p align="center">❤ ❤ ❤ </p>
 

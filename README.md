@@ -16,12 +16,9 @@
   <a href="https://www.google.ru/search?ie=UTF-8&q=filin_cprt#ip=1"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg" alt="filin_cprt"></a>
 </p>
 
-
-### <p align="center">:fire: My Stats :</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=filincprt&theme=tokyonight&locale=ru&mode=weekly&fire=EB2100">
-</p>
+### <h1 align="center">Счётчик посетителей:</h1>
+<p align="center"><img src="https://count.getloli.com/@GitHub_filincprt?name=GitHub_filincprt&theme=original-new&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=1" alt="Счётчик посетителей"/></p>
+<p align="center"><img src="https://github.com/filincprt/filincprt/assets/53017160/5a447ac6-bb05-4d60-9fd8-3cfd1fa29f64" width="400"></p>
 
 
 <p align="center">

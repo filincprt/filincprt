@@ -18,8 +18,6 @@
 
 ### <h1 align="center">Счётчик посетителей:</h1>
 <p align="center"><img src="https://count.getloli.com/@GitHub_filincprt?name=GitHub_filincprt&theme=original-new&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=1" alt="Счётчик посетителей"/></p>
-<p align="center"><img src="https://github.com/filincprt/filincprt/assets/53017160/5a447ac6-bb05-4d60-9fd8-3cfd1fa29f64" width="400"></p>
-
 
 <p align="center">
   <strong><a href="https://vk.com/filin_cprt">VK</a></strong> |
